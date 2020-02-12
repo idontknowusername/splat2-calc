@@ -13,7 +13,8 @@ angular.module('splatApp').skills = function ($scope) {
         "de_DE": "Hauptverbrauch",
         "it_IT": "Eco-colore princ.",
         "nl_NL": "Hoofdspaarder",
-        "ru_RU": "Основной баллон X"
+        "ru_RU": "Основной баллон X",
+		"ko_KR": "잉크 절약(메인)"
       },
       image:"../common/assets/img/skills/MainInk_Save.png",
       id: 1
@@ -31,7 +32,8 @@ angular.module('splatApp').skills = function ($scope) {
         "de_DE": "Sekundärverbrauch",
         "it_IT": "Eco-colore second.",
         "nl_NL": "Subspaarder",
-        "ru_RU": "Запасной баллон X"
+        "ru_RU": "Запасной баллон X",
+		"ko_KR": "잉크 절약(부무장)"
       },
       image:"../common/assets/img/skills/SubInk_Save.png",
       id: 2
@@ -49,7 +51,8 @@ angular.module('splatApp').skills = function ($scope) {
         "de_DE": "Regeneration +",
         "it_IT": "Recupero colore +",
         "nl_NL": "Inktvulling",
-        "ru_RU": "Быстрый баллон"
+        "ru_RU": "Быстрый баллон",
+		"ko_KR": "잉크 회복속도 업"
       },
       image:"../common/assets/img/skills/InkRecovery_Up.png",
       id: 3
@@ -67,7 +70,8 @@ angular.module('splatApp').skills = function ($scope) {
         "de_DE": "Lauftempo +",
         "it_IT": "Velocità +",
         "nl_NL": "Hardloper",
-        "ru_RU": "Спринтер"
+        "ru_RU": "Спринтер",
+		"ko_KR": "인간 이동속도 업"
       },
       image:"../common/assets/img/skills/HumanMove_Up.png",
       id: 4
@@ -85,7 +89,8 @@ angular.module('splatApp').skills = function ($scope) {
         "de_DE": "Schwimmtempo +",
         "it_IT": "Velocità nuoto +",
         "nl_NL": "Zwemdiploma",
-        "ru_RU": "Плавунец"
+        "ru_RU": "Плавунец",
+		"ko_KR": "오징어 대시 속도 업"
       },
       image:"../common/assets/img/skills/SquidMove_Up.png",
       id: 5
@@ -103,7 +108,8 @@ angular.module('splatApp').skills = function ($scope) {
         "de_DE": "Supersprung +",
         "it_IT": "Salti super e veloci",
         "nl_NL": "Turbosprong",
-        "ru_RU": "Суперпрыгун"
+        "ru_RU": "Суперпрыгун",
+		"ko_KR": "슈퍼 점프 시간 단축"
       },
       image:"../common/assets/img/skills/JumpTime_Save.png",
       id: 6
@@ -121,7 +127,8 @@ angular.module('splatApp').skills = function ($scope) {
         "de_DE": "Tintentoleranz +",
         "it_IT": "Scarpe impermeabili",
         "nl_NL": "Inkttolerantie",
-        "ru_RU": "Краскостойкость"
+        "ru_RU": "Краскостойкость",
+		"ko_KR": "상대 잉크 저항"
       },
       image:"../common/assets/img/skills/OpInkEffect_Reduction.png",
       id: 7
@@ -139,7 +146,8 @@ angular.module('splatApp').skills = function ($scope) {
         "de_DE": "Bombenschutz 2.0",
         "it_IT": "Antiesplosione 2.0",
         "nl_NL": "Bomvrij 2.0",
-        "ru_RU": "Бомбостойкость М-2"
+        "ru_RU": "Бомбостойкость М-2",
+		"ko_KR": "폭발 데미지 감소 DX"
       },
       image:"../common/assets/img/skills/BombDamage_Reduction.png",
       id: 8
@@ -157,7 +165,8 @@ angular.module('splatApp').skills = function ($scope) {
         "de_DE": "Hauptwaffe +",
         "it_IT": "Arma principale +",
         "nl_NL": "Hoofdhelper",
-        "ru_RU": "Про-Основа"
+        "ru_RU": "Про-Основа",
+		"ko_KR": "메인 성능 업"
       },
       image:"../common/assets/img/skills/MainPowerUp.png",
       id: 9
@@ -175,7 +184,8 @@ angular.module('splatApp').skills = function ($scope) {
         "de_DE": "Schnelle Rückkehr",
         "it_IT": "Il tempo è colore",
         "nl_NL": "Comeback",
-        "ru_RU": "Феникс"
+        "ru_RU": "Феникс",
+		"ko_KR": "부활 시간 단축"
       },
       image:"../common/assets/img/skills/RespawnTime_Save.png",
       id: 10
@@ -193,7 +203,8 @@ angular.module('splatApp').skills = function ($scope) {
         "de_DE": "Spezialladezeit +",
         "it_IT": "Recarica special +",
         "nl_NL": "Speciaallader",
-        "ru_RU": "Особый насос"
+        "ru_RU": "Особый насос",
+		"ko_KR": "스페셜 증가량 업"
       },
       image:"../common/assets/img/skills/SpecialIncrease_Up.png",
       id: 11
@@ -211,7 +222,8 @@ angular.module('splatApp').skills = function ($scope) {
         "de_DE": "Spezialabzug -",
         "it_IT": "Riduzione speciale -",
         "nl_NL": "Speciaalspaarder",
-        "ru_RU": "Особый резерв"
+        "ru_RU": "Особый резерв",
+		"ko_KR": "스페셜 감소량 다운"
       },
       image:"../common/assets/img/skills/RespawnSpecialGauge_Save.png",
       id: 12
@@ -229,7 +241,8 @@ angular.module('splatApp').skills = function ($scope) {
         "de_DE": "Spezialstärke +",
         "it_IT": "Arma speciale +",
         "nl_NL": "Specialist",
-        "ru_RU": "Особый подход"
+        "ru_RU": "Особый подход",
+		"ko_KR": "스페셜 성능 업"
       },
       image:"../common/assets/img/skills/SpecialTime_Up.png",
       id: 13
@@ -247,7 +260,8 @@ angular.module('splatApp').skills = function ($scope) {
         "de_DE": "Sekundärstärke +",
         "it_IT": "Arma secondaria +",
         "nl_NL": "Subtopper",
-        "ru_RU": "Про-Запас"
+        "ru_RU": "Про-Запас",
+		"ko_KR": "부무장 성능 업"
       },
       image:"../common/assets/img/skills/BombDistance_Up.png",
       id: 14
@@ -265,7 +279,8 @@ angular.module('splatApp').skills = function ($scope) {
         "de_DE": "Startvorteil",
         "it_IT": "Partenza a razzo",
         "nl_NL": "Vliegende start",
-        "ru_RU": "Стартовый спурт"
+        "ru_RU": "Стартовый спурт",
+		"ko_KR": "스타트 대시"
       },
       image:"../common/assets/img/skills/StartAllUp.png",
       exclusive:"loadout.head.main",
@@ -285,7 +300,8 @@ angular.module('splatApp').skills = function ($scope) {
         "de_DE": "Endspurt",
         "it_IT": "Splash finale",
         "nl_NL": "Eindsprint",
-        "ru_RU": "Финишный спурт"
+        "ru_RU": "Финишный спурт",
+		"ko_KR": "라스트 스퍼트"
       },
       image:"../common/assets/img/skills/EndAllUp.png",
       exclusive:"loadout.head.main",
@@ -305,7 +321,8 @@ angular.module('splatApp').skills = function ($scope) {
         "de_DE": "Rückkehr",
         "it_IT": "Gran ritorno",
         "nl_NL": "Opfrisser",
-        "ru_RU": "Ответный удар"
+        "ru_RU": "Ответный удар",
+		"ko_KR": "컴백"
       },
       image:"../common/assets/img/skills/ComeBack.png",
       exclusive:"loadout.head.main",
@@ -325,7 +342,8 @@ angular.module('splatApp').skills = function ($scope) {
         "de_DE": "Zähigkeit",
         "it_IT": "Tenacia",
         "nl_NL": "Volharding",
-        "ru_RU": "Компенсатор"
+        "ru_RU": "Компенсатор",
+		"ko_KR": "역경 강화"
       },
       image:"../common/assets/img/skills/MinorityUp.png",
       exclusive:"loadout.head.main",
@@ -344,7 +362,8 @@ angular.module('splatApp').skills = function ($scope) {
         "de_DE": "Markierfarbe",
         "it_IT": "Inchiostro termico",
         "nl_NL": "Markeerstift",
-        "ru_RU": "Клеймо"
+        "ru_RU": "Клеймо",
+		"ko_KR": "서멀 잉크"
       },
       image:"../common/assets/img/skills/ThermalInk.png",
       exclusive:"loadout.clothes.main",
@@ -363,7 +382,8 @@ angular.module('splatApp').skills = function ($scope) {
         "de_DE": "Tintenfisch-Ninja",
         "it_IT": "Calamaro ninja",
         "nl_NL": "Ninja-inktvis",
-        "ru_RU": "Мимикрия"
+        "ru_RU": "Мимикрия",
+		"ko_KR": "오징어 닌자"
       },
       image:"../common/assets/img/skills/SquidMoveSpatter_Reduction.png",
       exclusive:"loadout.clothes.main",
@@ -382,7 +402,8 @@ angular.module('splatApp').skills = function ($scope) {
         "de_DE": "Vertgeltung",
         "it_IT": "Rappresglia",
         "nl_NL": "Revanche",
-        "ru_RU": "Вендетта"
+        "ru_RU": "Вендетта",
+		"ko_KR": "리벤지"
       },
       image:"../common/assets/img/skills/DeathMarking.png",
       exclusive:"loadout.clothes.main",
@@ -402,7 +423,8 @@ angular.module('splatApp').skills = function ($scope) {
         "de_DE": "Heimsuchung",
         "it_IT": "Castigo",
         "nl_NL": "Repercussie",
-        "ru_RU": "Кара"
+        "ru_RU": "Кара",
+		"ko_KR": "부활 페널티 업"
       },
       image:"../common/assets/img/skills/Exorcist.png",
       exclusive:"loadout.clothes.main",
@@ -421,7 +443,8 @@ angular.module('splatApp').skills = function ($scope) {
         "de_DE": "Tricklandung",
         "it_IT": "Atterraggio stiloso",
         "nl_NL": "Rolmodel",
-        "ru_RU": "Акробат"
+        "ru_RU": "Акробат",
+		"ko_KR": "낙법치기"
       },
       image:"../common/assets/img/skills/SomersaultLanding.png",
       exclusive:"loadout.shoes.main",
@@ -441,7 +464,8 @@ angular.module('splatApp').skills = function ($scope) {
         "de_DE": "Sprunginfiltration",
         "it_IT": "Salto al buio",
         "nl_NL": "Sluipsprong",
-        "ru_RU": "Десант"
+        "ru_RU": "Десант",
+		"ko_KR": "스텔스 점프"
       },
       image:"../common/assets/img/skills/SuperJumpSign_Hide.png",
       exclusive:"loadout.shoes.main",
@@ -460,7 +484,8 @@ angular.module('splatApp').skills = function ($scope) {
         "de_DE": "Zerstörer",
         "it_IT": "Demolitore",
         "nl_NL": "Sloper",
-        "ru_RU": "Демонтажник"
+        "ru_RU": "Демонтажник",
+		"ko_KR": "대물 공격력 업"
       },
       image:"../common/assets/img/skills/ObjectEffect_Up.png",
       exclusive:"loadout.shoes.main",
@@ -479,7 +504,8 @@ angular.module('splatApp').skills = function ($scope) {
         "de_DE": "Effektdoppelung",
         "it_IT": "Raddoppiatore",
         "nl_NL": "Verdubbelaar",
-        "ru_RU": "Дупликатор"
+        "ru_RU": "Дупликатор",
+		"ko_KR": "추가기어 파워 곱하기"
       },
       image:"../common/assets/img/skills/ExSkillDouble.png",
       exclusive:"hidden",
