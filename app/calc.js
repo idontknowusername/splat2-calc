@@ -7471,7 +7471,8 @@ angular
 				ja_JP: '日本語',
 				// 'es_ES': 'Español (ES)',
 				// 'es_MX': 'Español (MX)',
-				fr_FR: 'Français (FR)'
+				fr_FR: 'Français (FR)',
+				ko_KR: '한국어'
 				// 'fr_CA': 'Français (CA)',
 				// 'it_IT': 'Italiano',
 				// 'zh_HK': '中文 (香港)'

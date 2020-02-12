@@ -14,8 +14,8 @@ var language_map = {
   "es_ES": "es_ES",
   "es_MX": "es_MX",
   "it_IT": "it_IT",
-  "zh_HK": "zh_HK"
-
+  "zh_HK": "zh_HK",
+  "ko_KR": "ko_KR"
   // "en_US": "en-us",
   // "fr_FR": "fr",
   // "ja_JP": "ja",

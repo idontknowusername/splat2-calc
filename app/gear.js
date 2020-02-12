@@ -16,7 +16,8 @@ angular.module('splatApp').gear = function($scope) {
 				de_DE: 'TintactiX',
 				nl_NL: 'SquidForce',
 				ru_RU: 'Кальмари',
-				it_IT: 'CalamaX'
+				it_IT: 'CalamaX',
+				ko_KR: '바트로이카'
 			},
 			image: '../common/assets/img/brands/B00.png',
 			common: 'Ink Resistance Up',
@@ -34,7 +35,8 @@ angular.module('splatApp').gear = function($scope) {
 				de_DE: 'Sagitron',
 				nl_NL: 'Zink',
 				ru_RU: 'Шпротус',
-				it_IT: 'Totanic'
+				it_IT: 'Totanic',
+				ko_KR: '아이로닉'
 			},
 			image: '../common/assets/img/brands/B01.png',
 			common: 'Quick Super Jump',
@@ -52,7 +54,8 @@ angular.module('splatApp').gear = function($scope) {
 				de_DE: 'Medusa',
 				nl_NL: 'Krak-On',
 				ru_RU: 'Кра-Кен',
-				it_IT: 'Cnidarya'
+				it_IT: 'Cnidarya',
+				ko_KR: '쿠라게스'
 			},
 			image: '../common/assets/img/brands/B02.png',
 			common: 'Swim Speed Up',
@@ -70,7 +73,8 @@ angular.module('splatApp').gear = function($scope) {
 				de_DE: 'Rockberg',
 				nl_NL: 'Rockenberg',
 				ru_RU: 'Угрок',
-				it_IT: 'Rockenburg'
+				it_IT: 'Rockenburg',
+				ko_KR: '롯켄베르크'
 			},
 			image: '../common/assets/img/brands/B03.png',
 			common: 'Run Speed Up',
@@ -88,7 +92,8 @@ angular.module('splatApp').gear = function($scope) {
 				de_DE: 'Zekko',
 				nl_NL: 'Zekko',
 				ru_RU: 'Йожко',
-				it_IT: 'Ezko'
+				it_IT: 'Ezko',
+				ko_KR: '에족코'
 			},
 			image: '../common/assets/img/brands/B04.png',
 			common: 'Special Saver',
@@ -106,7 +111,8 @@ angular.module('splatApp').gear = function($scope) {
 				de_DE: 'Focus',
 				nl_NL: 'Forge',
 				ru_RU: 'Блиц',
-				it_IT: 'Fortia'
+				it_IT: 'Fortia',
+				ko_KR: '포리마'
 			},
 			image: '../common/assets/img/brands/B05.png',
 			common: 'Special Power Up',
@@ -124,7 +130,8 @@ angular.module('splatApp').gear = function($scope) {
 				de_DE: 'Rilax',
 				nl_NL: 'Firefin',
 				ru_RU: 'Фритюр',
-				it_IT: 'Torryd'
+				it_IT: 'Torryd',
+				ko_KR: '홋코리'
 			},
 			image: '../common/assets/img/brands/B06.png',
 			common: 'Ink Saver (Sub)',
@@ -142,7 +149,8 @@ angular.module('splatApp').gear = function($scope) {
 				de_DE: 'Jakomu',
 				nl_NL: 'Skalop',
 				ru_RU: 'Гребершко',
-				it_IT: 'Capasaint'
+				it_IT: 'Capasaint',
+				ko_KR: '호택스'
 			},
 			image: '../common/assets/img/brands/B07.png',
 			common: 'Quick Respawn',
@@ -160,7 +168,8 @@ angular.module('splatApp').gear = function($scope) {
 				de_DE: 'Gian',
 				nl_NL: 'Splash Mob',
 				ru_RU: 'Морлюкс',
-				it_IT: 'Chimmon'
+				it_IT: 'Chimmon',
+				ko_KR: '지몬'
 			},
 			image: '../common/assets/img/brands/B08.png',
 			common: 'Ink Saver (Main)',
@@ -178,7 +187,8 @@ angular.module('splatApp').gear = function($scope) {
 				de_DE: 'Alpomar',
 				nl_NL: 'Inkline',
 				ru_RU: 'Волногор',
-				it_IT: 'Maremont'
+				it_IT: 'Maremont',
+				ko_KR: '시구레니'
 			},
 			image: '../common/assets/img/brands/B09.png',
 			common: 'Bomb Defense Up DX',
@@ -196,7 +206,8 @@ angular.module('splatApp').gear = function($scope) {
 				de_DE: 'Tentatek',
 				nl_NL: 'Tentatek',
 				ru_RU: 'Щуччи',
-				it_IT: 'Arome'
+				it_IT: 'Arome',
+				ko_KR: '아로메'
 			},
 			image: '../common/assets/img/brands/B10.png',
 			common: 'Ink Recovery Up',
@@ -214,7 +225,8 @@ angular.module('splatApp').gear = function($scope) {
 				de_DE: 'Kalamati',
 				nl_NL: 'Takoroka',
 				ru_RU: 'Рыбок',
-				it_IT: 'Sepia'
+				it_IT: 'Sepia',
+				ko_KR: '야코'
 			},
 			image: '../common/assets/img/brands/B11.png',
 			common: 'Special Charge Up',
@@ -232,7 +244,8 @@ angular.module('splatApp').gear = function($scope) {
 				de_DE: 'Annaki',
 				nl_NL: 'Annaki',
 				ru_RU: 'Панкасиус',
-				it_IT: 'Annak'
+				it_IT: 'Annak',
+				ko_KR: '아나아키'
 			},
 			image: '../common/assets/img/brands/B15.png',
 			common: 'Main Power Up',
@@ -250,7 +263,8 @@ angular.module('splatApp').gear = function($scope) {
 				de_DE: 'Enperry',
 				nl_NL: 'Enperry',
 				ru_RU: 'Кальмар Кляр',
-				it_IT: 'Imperial'
+				it_IT: 'Imperial',
+				ko_KR: '엔페리'
 			},
 			image: '../common/assets/img/brands/B16.png',
 			common: 'Sub Power Up',
@@ -268,7 +282,8 @@ angular.module('splatApp').gear = function($scope) {
 				de_DE: 'Toni Kensa',
 				nl_NL: 'Toni Kensa',
 				ru_RU: 'Сушаки Кусаки',
-				it_IT: 'Nero Marlin'
+				it_IT: 'Nero Marlin',
+				ko_KR: '타타키 켄사키'
 			},
 			image: '../common/assets/img/brands/B17.png',
 			common: 'Main Power Up',
@@ -286,7 +301,8 @@ angular.module('splatApp').gear = function($scope) {
 				de_DE: 'Bär GmbH',
 				nl_NL: 'Beer & Co',
 				ru_RU: 'Beer & Co',
-				it_IT: 'Ursus & Co'
+				it_IT: 'Ursus & Co',
+				ko_KR: '쿠마씨 상회'
 			},
 			image: '../common/assets/img/brands/B97.png'
 		},
@@ -302,7 +318,8 @@ angular.module('splatApp').gear = function($scope) {
 				de_DE: 'Kuttelkorps',
 				nl_NL: 'Kraakwaar',
 				ru_RU: 'Каракат',
-				it_IT: 'Krakensen'
+				it_IT: 'Krakensen',
+				ko_KR: '아타리메이드'
 			},
 			image: '../common/assets/img/brands/B98.png'
 		},
@@ -318,7 +335,8 @@ angular.module('splatApp').gear = function($scope) {
 				de_DE: 'amiibo',
 				nl_NL: 'amiibo',
 				ru_RU: 'amiibo',
-				it_IT: 'amiibo'
+				it_IT: 'amiibo',
+				ko_KR: '아미보'
 			},
 			image: '../common/assets/img/brands/B99.png'
 		}
