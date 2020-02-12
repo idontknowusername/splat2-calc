@@ -14,7 +14,8 @@ angular.module('splatApp').subs = function ($scope) {
         "it_IT": "Robobomba",
         "nl_NL": "Robobom",
         "ru_RU": "Робобомб",
-        "zh_HK": "ロボットボム (自走式)"
+        "zh_HK": "ロボットボム (自走式)",
+		"ko_KR": "로봇 봄"
       },
       image: "../common/assets/img/subspe/Wsb_Bomb_Robo.png",
       cost: 55,
@@ -38,7 +39,8 @@ angular.module('splatApp').subs = function ($scope) {
         "it_IT": "Granata",
         "nl_NL": "Ballonbom",
         "ru_RU": "Разрывная бомба",
-        "zh_HK": "クイックボム (水袋)"
+        "zh_HK": "クイックボム (水袋)",
+		"ko_KR": "퀵 봄"
       },
       image: "../common/assets/img/subspe/Wsb_Bomb_Quick.png",
       cost: 40,
@@ -63,7 +65,8 @@ angular.module('splatApp').subs = function ($scope) {
         "it_IT": "Bomba curling",
         "nl_NL": "Curlingbom",
         "ru_RU": "Керлинг-бомба",
-        "zh_HK": "カーリングボム (氷球)"
+        "zh_HK": "カーリングボム (氷球)",
+		"ko_KR": "컬링 봄"
       },
       image: "../common/assets/img/subspe/Wsb_Bomb_Curling.png",
       cost: 70,
@@ -87,7 +90,8 @@ angular.module('splatApp').subs = function ($scope) {
         "it_IT": "Bomba a gassosa",
         "nl_NL": "Bomblikje",
         "ru_RU": "Содовая бомба",
-        "zh_HK": ""  
+        "zh_HK": "",
+		"ko_KR": "탄산 봄"
       },
       image: "../common/assets/img/subspe/Wsb_Bomb_Piyo.png",
       cost: 60,
@@ -111,7 +115,8 @@ angular.module('splatApp').subs = function ($scope) {
         "it_IT": "Mina",
         "nl_NL": "Inktmijnen",
         "ru_RU": "Мины",
-        "zh_HK": "トラップ (地雷)"
+        "zh_HK": "トラップ (地雷)",
+		"ko_KR": "트랩"
       },
       image: "../common/assets/img/subspe/Wsb_TimerTrap.png",
       cost: 60,
@@ -135,7 +140,8 @@ angular.module('splatApp').subs = function ($scope) {
         "it_IT": "Cimice",
         "nl_NL": "Detector",
         "ru_RU": "Маркер движения",
-        "zh_HK": "ポイントセンサー (追跡器)"
+        "zh_HK": "ポイントセンサー (追跡器)",
+		"ko_KR": "포인트 센서"
       },
       image: "../common/assets/img/subspe/Wsb_PointSensor.png",
       cost: 45,
@@ -155,7 +161,8 @@ angular.module('splatApp').subs = function ($scope) {
         "it_IT": "Muro di colore",
         "nl_NL": "Inktgordijn",
         "ru_RU": "Чернильный занавес",
-        "zh_HK": "スプラッシュシールド (水簾)"
+        "zh_HK": "スプラッシュシールド (水簾)",
+		"ko_KR": "스플래시 쉴드"
       },
       image: "../common/assets/img/subspe/Wsb_Shield.png",
       cost: 60,
@@ -175,7 +182,8 @@ angular.module('splatApp').subs = function ($scope) {
         "it_IT": "Bomba splash",
         "nl_NL": "Klodderbom",
         "ru_RU": "Брызгающая бомба",
-        "zh_HK": "スプラッシュボム (三角形)"
+        "zh_HK": "スプラッシュボム (三角形)",
+		"ko_KR": "스플래시 봄"
       },
       image: "../common/assets/img/subspe/Wsb_Bomb_Splash.png",
       cost: 70,
@@ -199,7 +207,8 @@ angular.module('splatApp').subs = function ($scope) {
         "it_IT": "Spruzzatore",
         "nl_NL": "Inktsprinkler",
         "ru_RU": "Распылятор",
-        "zh_HK": "ジャンプビーコン (淋花器)"
+        "zh_HK": "ジャンプビーコン (淋花器)",
+		"ko_KR": "스프링클러"
       },
       image: "../common/assets/img/subspe/Wsb_Sprinkler.png",
       cost: 60,
@@ -219,7 +228,8 @@ angular.module('splatApp').subs = function ($scope) {
         "it_IT": "Trasferitore",
         "nl_NL": "Springschotel",
         "ru_RU": "Прыжковый маячок",
-        "zh_HK": "ジャンプビーコン (雷達標志)"
+        "zh_HK": "ジャンプビーコン (雷達標志)",
+		"ko_KR": "점프 비컨"
       },
       image: "../common/assets/img/subspe/Wsb_Flag.png",
       cost: 75,
@@ -239,7 +249,8 @@ angular.module('splatApp').subs = function ($scope) {
         "it_IT": "Appiccibomba",
         "nl_NL": "Kleefbom",
         "ru_RU": "Бомба на присоске",
-        "zh_HK": "キューバンボム (吸盤)"
+        "zh_HK": "キューバンボム (吸盤)",
+		"ko_KR": "빨판 봄"
       },
       image: "../common/assets/img/subspe/Wsb_Bomb_Suction.png",
       cost: 70,
@@ -263,7 +274,8 @@ angular.module('splatApp').subs = function ($scope) {
         "it_IT": "Torpedinatore",
         "nl_NL": "Torpedobom",
         "ru_RU": "Торпедная бомба",
-        "zh_HK": ""  
+        "zh_HK": "",
+		"ko_KR": "토피도"
       },
       image: "../common/assets/img/subspe/Wsb_Bomb_Tako.png",
       cost: 65,
@@ -287,7 +299,8 @@ angular.module('splatApp').subs = function ($scope) {
         "it_IT": "Nebbia tossica",
         "nl_NL": "Gifmist",
         "ru_RU": "Едкий туман",
-        "zh_HK": "ポイズンミスト (毒霧)"
+        "zh_HK": "ポイズンミスト (毒霧)",
+		"ko_KR": "포이즌 미스트"
       },
       image: "../common/assets/img/subspe/Wsb_PoisonFog.png",
       cost: 60,
