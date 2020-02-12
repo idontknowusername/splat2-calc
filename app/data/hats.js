@@ -474,7 +474,8 @@ $scope.hats = [
       "de_DE": "Jeanskappe mit Schild",
       "nl_NL": "Denim pet",
       "ru_RU": "Джинсовая кепка",
-      "it_IT": "Cappello di jeans"
+      "it_IT": "Cappello di jeans",
+	  "ko_KR": "하우스태그 데님 캡"
     },
     "main": "Special Charge Up",
     "brand": "Splash Mob",
@@ -496,7 +497,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "복어 배달부"
     },
     "main": "Quick Super Jump",
     "brand": "Firefin",
@@ -518,7 +520,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "스카프, 모자, 선글라스"
     },
     "main": "Main Power Up",
     "brand": "Skalop",
@@ -540,7 +543,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "파일럿 모자"
     },
     "main": "Ink Resistance Up",
     "brand": "Splash Mob",
@@ -562,7 +566,8 @@ $scope.hats = [
       "de_DE": "Pudelmütze",
       "nl_NL": "Bobbelmuts",
       "ru_RU": "Шапка с помпоном",
-      "it_IT": "Pon-pon di lana"
+      "it_IT": "Pon-pon di lana",
+	  "ko_KR": "봉봉 니트"
     },
     "main": "Quick Super Jump",
     "brand": "Splash Mob",
@@ -584,7 +589,8 @@ $scope.hats = [
       "de_DE": "Beanie",
       "nl_NL": "Beanie",
       "ru_RU": "Лыжная шапочка",
-      "it_IT": "Zuccotto"
+      "it_IT": "Zuccotto",
+	  "ko_KR": "쇼트 비니"
     },
     "main": "Ink Saver (Main)",
     "brand": "Inkline",
@@ -606,7 +612,8 @@ $scope.hats = [
       "de_DE": "Streifen-Beanie",
       "nl_NL": "Gestreepte beanie",
       "ru_RU": "Шапочка в полоску",
-      "it_IT": "Zuccotto a righe"
+      "it_IT": "Zuccotto a righe",
+	  "ko_KR": "보더 비니"
     },
     "main": "Opening Gambit",
     "brand": "Splash Mob",
@@ -628,7 +635,8 @@ $scope.hats = [
       "de_DE": "Winter-Pudelmütze",
       "nl_NL": "Sportieve bobbelmuts",
       "ru_RU": "Спорт-шапка с помпоном",
-      "it_IT": "Pon-pon sportivo"
+      "it_IT": "Pon-pon sportivo",
+	  "ko_KR": "윈터 봉봉"
     },
     "main": "Tenacity",
     "brand": "Skalop",
@@ -650,7 +658,8 @@ $scope.hats = [
       "de_DE": "Barett",
       "nl_NL": "Commandobaret",
       "ru_RU": "Берет ВДВ",
-      "it_IT": "Berretto trote speciali"
+      "it_IT": "Berretto trote speciali",
+	  "ko_KR": "몽고우 베레"
     },
     "main": "Opening Gambit",
     "brand": "Forge",
@@ -672,7 +681,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "오징어 노르딕"
     },
     "main": "Comeback",
     "brand": "Skalop",
@@ -694,7 +704,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "센뉴 봉봉 비니"
     },
     "main": "Ink Saver (Sub)",
     "brand": "Splash Mob",
@@ -716,7 +727,8 @@ $scope.hats = [
       "de_DE": "Strickmütze",
       "nl_NL": "Wollen muts",
       "ru_RU": "Шапка «Фугасик»",
-      "it_IT": "Cappello a maglia"
+      "it_IT": "Cappello a maglia",
+	  "ko_KR": "리브 니트"
     },
     "main": "Ink Resistance Up",
     "brand": "Firefin",
@@ -738,7 +750,8 @@ $scope.hats = [
       "de_DE": "Annaki-Barrett",
       "nl_NL": "Annaki-baret",
       "ru_RU": "Берет с булавкой",
-      "it_IT": "Berretto con spilla"
+      "it_IT": "Berretto con spilla",
+	  "ko_KR": "아나아키 베레"
     },
     "main": "Ink Resistance Up",
     "brand": "Annaki",
@@ -760,7 +773,8 @@ $scope.hats = [
       "de_DE": "Zickzack-Beanie",
       "nl_NL": "Zigzagmuts",
       "ru_RU": "Шапочка с узором",
-      "it_IT": "Zuccotto zig-zag"
+      "it_IT": "Zuccotto zig-zag",
+	  "ko_KR": "야마기리 비니"
     },
     "main": "Main Power Up",
     "brand": "Inkline",
@@ -782,7 +796,8 @@ $scope.hats = [
       "de_DE": "Inkognito-Mütze",
       "nl_NL": "Muts met mondkapje",
       "ru_RU": "Шапочка с маской",
-      "it_IT": "Zuccotto con mascherina"
+      "it_IT": "Zuccotto con mascherina",
+	  "ko_KR": "위장 비니"
     },
     "main": "Swim Speed Up",
     "brand": "Skalop",
@@ -804,7 +819,8 @@ $scope.hats = [
       "de_DE": "Retrobrille",
       "nl_NL": "Retrobril",
       "ru_RU": "Ретро-очки",
-      "it_IT": "Occhiali rétro"
+      "it_IT": "Occhiali rétro",
+	  "ko_KR": "검은뿔 레트로"
     },
     "main": "Quick Respawn",
     "brand": "Splash Mob",
@@ -826,7 +842,8 @@ $scope.hats = [
       "de_DE": "Taucherbrille",
       "nl_NL": "Duikbril",
       "ru_RU": "Маска для ныряния",
-      "it_IT": "Maschera da sub"
+      "it_IT": "Maschera da sub",
+	  "ko_KR": "스플래시 고글"
     },
     "main": "Bomb Defense Up DX",
     "brand": "Forge",
@@ -848,7 +865,8 @@ $scope.hats = [
       "de_DE": "Pilotenbrille",
       "nl_NL": "Pilotenbril",
       "ru_RU": "Очки пилота",
-      "it_IT": "Occhiali da pilota"
+      "it_IT": "Occhiali da pilota",
+	  "ko_KR": "파일럿 고글"
     },
     "main": "Sub Power Up",
     "brand": "Forge",
@@ -870,7 +888,8 @@ $scope.hats = [
       "de_DE": "Getönte Brille",
       "nl_NL": "Getinte zonnebril",
       "ru_RU": "Солнцезащитные очки",
-      "it_IT": "Occhiali colorati"
+      "it_IT": "Occhiali colorati",
+	  "ko_KR": "색안경"
     },
     "main": "Last-Ditch Effort",
     "brand": "Zekko",
@@ -892,7 +911,8 @@ $scope.hats = [
       "de_DE": "Schwarze Sportbandbrille",
       "nl_NL": "Zwarte bril met sportband",
       "ru_RU": "Черные очки на резинке",
-      "it_IT": "Occhiali spessi"
+      "it_IT": "Occhiali spessi",
+	  "ko_KR": "애로우 밴드 블랙"
     },
     "main": "Tenacity",
     "brand": "Zekko",
@@ -914,7 +934,8 @@ $scope.hats = [
       "de_DE": "Schnorchel",
       "nl_NL": "Snorkel",
       "ru_RU": "Комплект для ныряния",
-      "it_IT": "Maschera con tubo"
+      "it_IT": "Maschera con tubo",
+	  "ko_KR": "다이버 고글"
     },
     "main": "Ink Saver (Sub)",
     "brand": "Forge",
@@ -936,7 +957,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "애로우밴드 화이트"
     },
     "main": "Special Power Up",
     "brand": "Zekko",
@@ -958,7 +980,8 @@ $scope.hats = [
       "de_DE": "Getönte Kontaktlinsen",
       "nl_NL": "Gekleurde contactlenzen",
       "ru_RU": "Линзы-невидимки",
-      "it_IT": "Lenti a contatto finte"
+      "it_IT": "Lenti a contatto finte",
+	  "ko_KR": "서클 렌즈"
     },
     "main": "Special Charge Up",
     "brand": "Tentatek",
@@ -980,7 +1003,8 @@ $scope.hats = [
       "de_DE": "Sonnenbrille 18K",
       "nl_NL": "18K aviatorbril",
       "ru_RU": "Золотые «авиаторы»",
-      "it_IT": "Occhiali da sole 18K"
+      "it_IT": "Occhiali da sole 18K",
+	  "ko_KR": "18K 비행 안경"
     },
     "main": "Last-Ditch Effort",
     "brand": "Rockenberg",
@@ -1002,7 +1026,8 @@ $scope.hats = [
       "de_DE": "Rund-Hornbrille",
       "nl_NL": "Ronde bril",
       "ru_RU": "Очки в роговой оправе",
-      "it_IT": "Occhiali rotondi"
+      "it_IT": "Occhiali rotondi",
+	  "ko_KR": "동글이 안경"
     },
     "main": "Quick Super Jump",
     "brand": "Krak-On",
@@ -1024,7 +1049,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "옥타 글래스"
     },
     "main": "Last-Ditch Effort",
     "brand": "Firefin",
@@ -1046,7 +1072,8 @@ $scope.hats = [
       "de_DE": "Halbrand-Brille",
       "nl_NL": "Bril met halve rand",
       "ru_RU": "Очки в полуоправе",
-      "it_IT": "Occhiali a mezza montatura"
+      "it_IT": "Occhiali a mezza montatura",
+	  "ko_KR": "반테 안경"
     },
     "main": "Special Power Up",
     "brand": "Splash Mob",
@@ -1068,7 +1095,8 @@ $scope.hats = [
       "de_DE": "Oval-Sonnenbrille",
       "nl_NL": "Ovale zonnebril",
       "ru_RU": "Очки «Гранж»",
-      "it_IT": "Occhiali da sole ovali"
+      "it_IT": "Occhiali da sole ovali",
+	  "ko_KR": "더블 에그 선글라스"
     },
     "main": "Run Speed Up",
     "brand": "Zekko",
@@ -1090,7 +1118,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "에족코 캡"
     },
     "main": "Opening Gambit",
     "brand": "Zekko",
@@ -1112,7 +1141,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "SV925 원형 선글라스"
     },
     "main": "Swim Speed Up",
     "brand": "Rockenberg",
@@ -1134,7 +1164,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "아나아키 베레 & 안경"
     },
     "main": "Ink Saver (Main)",
     "brand": "Annaki",
@@ -1156,7 +1187,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "수영 안경"
     },
     "main": "Last-Ditch Effort",
     "brand": "Zink",
@@ -1178,7 +1210,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "잉크 보안경"
     },
     "main": "Run Speed Up",
     "brand": "Toni Kensa",
@@ -1200,7 +1233,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "타타키 켄사키 고글"
     },
     "main": "Comeback",
     "brand": "Toni Kensa",
@@ -1222,7 +1256,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "센뉴 고글"
     },
     "main": "Ink Resistance Up",
     "brand": "Forge",
@@ -1244,7 +1279,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "센뉴 뿔테"
     },
     "main": "Swim Speed Up",
     "brand": "Splash Mob",
@@ -1266,7 +1302,8 @@ $scope.hats = [
       "de_DE": "Hummer-Tropenhut",
       "nl_NL": "Safarihoed",
       "ru_RU": "Панама для сафари",
-      "it_IT": "Cappello giungla"
+      "it_IT": "Cappello giungla",
+	  "ko_KR": "사파리 모자"
     },
     "main": "Last-Ditch Effort",
     "brand": "Forge",
@@ -1288,7 +1325,8 @@ $scope.hats = [
       "de_DE": "Tarnhut",
       "nl_NL": "Camouflagehoed",
       "ru_RU": "Камуфляжная панама",
-      "it_IT": "Cappello safari"
+      "it_IT": "Cappello safari",
+	  "ko_KR": "정글모"
     },
     "main": "Ink Saver (Main)",
     "brand": "Firefin",
@@ -1310,7 +1348,8 @@ $scope.hats = [
       "de_DE": "Anglerhut",
       "nl_NL": "Campinghoed",
       "ru_RU": "Панама туриста",
-      "it_IT": "Cappello relax"
+      "it_IT": "Cappello relax",
+	  "ko_KR": "캠핑 모자"
     },
     "main": "Special Power Up",
     "brand": "Inkline",
@@ -1332,7 +1371,8 @@ $scope.hats = [
       "de_DE": "Kugelfisch-Glockenhut",
       "nl_NL": "Kogelvispet",
       "ru_RU": "Клош «Фугасик»",
-      "it_IT": "Cappello pesce palla"
+      "it_IT": "Cappello pesce palla",
+	  "ko_KR": "복어 벙거지 모자"
     },
     "main": "Ink Recovery Up",
     "brand": "Firefin",
@@ -1354,7 +1394,8 @@ $scope.hats = [
       "de_DE": "Bambushut",
       "nl_NL": "Bamboehoed",
       "ru_RU": "Вьетнамка",
-      "it_IT": "Cappello orientale"
+      "it_IT": "Cappello orientale",
+	  "ko_KR": "삿갓"
     },
     "main": "Ink Saver (Main)",
     "brand": "Inkline",
@@ -1376,7 +1417,8 @@ $scope.hats = [
       "de_DE": "Boater",
       "nl_NL": "Strohoed",
       "ru_RU": "Шляпка из соломы",
-      "it_IT": "Cappello di paglia"
+      "it_IT": "Cappello di paglia",
+	  "ko_KR": "밀짚모자"
     },
     "main": "Quick Super Jump",
     "brand": "Skalop",
@@ -1398,7 +1440,8 @@ $scope.hats = [
       "de_DE": "Klassischer Boater",
       "nl_NL": "Klassieke strohoed",
       "ru_RU": "Шляпка «Классика»",
-      "it_IT": "Cappello di paglia classico"
+      "it_IT": "Cappello di paglia classico",
+	  "ko_KR": "밀짚모자 클래식"
     },
     "main": "Special Power Up",
     "brand": "Skalop",
@@ -1420,7 +1463,8 @@ $scope.hats = [
       "de_DE": "Expeditionshelm",
       "nl_NL": "Avonturiershelm",
       "ru_RU": "Пробковый шлем",
-      "it_IT": "Cappello avventuriero"
+      "it_IT": "Cappello avventuriero",
+	  "ko_KR": "트레저 헌터"
     },
     "main": "Ink Recovery Up",
     "brand": "Forge",
@@ -1442,7 +1486,8 @@ $scope.hats = [
       "de_DE": "Fischerhut",
       "nl_NL": "Vissershoed",
       "ru_RU": "Панама",
-      "it_IT": "Cappello da pescatore"
+      "it_IT": "Cappello da pescatore",
+	  "ko_KR": "오징어 버킷"
     },
     "main": "Special Saver",
     "brand": "SquidForce",
@@ -1464,7 +1509,8 @@ $scope.hats = [
       "de_DE": "Patchwork-Hut",
       "nl_NL": "Lapjeshoed",
       "ru_RU": "Панама из лоскутов",
-      "it_IT": "Cappello con toppe"
+      "it_IT": "Cappello con toppe",
+	  "ko_KR": "패치 모자"
     },
     "main": "Main Power Up",
     "brand": "Skalop",
@@ -1486,7 +1532,8 @@ $scope.hats = [
       "de_DE": "Tulpenhut",
       "nl_NL": "Tulphoed",
       "ru_RU": "Панама от «Волногор»",
-      "it_IT": "Cappello parasole"
+      "it_IT": "Cappello parasole",
+	  "ko_KR": "파라솔 튤립"
     },
     "main": "Ink Resistance Up",
     "brand": "Inkline",
@@ -1508,7 +1555,8 @@ $scope.hats = [
       "de_DE": "Kugelfisch-Glockenhut Duo",
       "nl_NL": "Fugu-klokhoed",
       "ru_RU": "Двойной клош «Фугасик»",
-      "it_IT": "Cappello pesce palla plus"
+      "it_IT": "Cappello pesce palla plus",
+	  "ko_KR": "복어 벙거지모자"
     },
     "main": "Quick Respawn",
     "brand": "Firefin",
@@ -1530,7 +1578,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "조개 삿갓"
     },
     "main": "Quick Respawn",
     "brand": "Inkline",
@@ -1552,7 +1601,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "온실 모자"
     },
     "main": "Ink Resistance Up",
     "brand": "Skalop",
@@ -1574,7 +1624,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "경관 모자"
     },
     "main": "Special Charge Up",
     "brand": "Inkline",
@@ -1596,7 +1647,8 @@ $scope.hats = [
       "de_DE": "Studio-Kopfhörer",
       "nl_NL": "Studiokoptelefoon",
       "ru_RU": "Студийные наушники",
-      "it_IT": "Cuffie pro"
+      "it_IT": "Cuffie pro",
+	  "ko_KR": "스튜디오 헤드폰"
     },
     "main": "Ink Saver (Main)",
     "brand": "Forge",
@@ -1618,7 +1670,8 @@ $scope.hats = [
       "de_DE": "Pastell-Kopfhörer",
       "nl_NL": "Designerkoptelefoon",
       "ru_RU": "Дизайнерские наушники",
-      "it_IT": "Cuffie colorate"
+      "it_IT": "Cuffie colorate",
+	  "ko_KR": "오로라 헤드폰"
     },
     "main": "Ink Saver (Sub)",
     "brand": "Forge",
@@ -1640,7 +1693,8 @@ $scope.hats = [
       "de_DE": "Gehörschutz",
       "nl_NL": "Oorbeschermers",
       "ru_RU": "Бесшумные наушники",
-      "it_IT": "Cuffie antirumore"
+      "it_IT": "Cuffie antirumore",
+	  "ko_KR": "귀마개"
     },
     "main": "Quick Respawn",
     "brand": "Forge",
@@ -1662,7 +1716,8 @@ $scope.hats = [
       "de_DE": "Cephalo-Kopfhörer",
       "nl_NL": "Oorhaak-koptelefoons",
       "ru_RU": "Модные наушники",
-      "it_IT": "Cuffie esca"
+      "it_IT": "Cuffie esca",
+	  "ko_KR": "엠페러 후크 HDP"
     },
     "main": "Ink Resistance Up",
     "brand": "Forge",
@@ -1684,7 +1739,8 @@ $scope.hats = [
       "de_DE": "Klassische Kopfhörer",
       "nl_NL": "Retrokoptelefoon",
       "ru_RU": "Ретро-наушники",
-      "it_IT": "Cuffie vintage"
+      "it_IT": "Cuffie vintage",
+	  "ko_KR": "스테카세 헤드폰"
     },
     "main": "Ink Recovery Up",
     "brand": "Forge",
@@ -1706,7 +1762,8 @@ $scope.hats = [
       "de_DE": "Studio-Oktohörer",
       "nl_NL": "Octo-studiokoptelefoon",
       "ru_RU": "Студийные осьмофоны",
-      "it_IT": "Octocuffie da studio"
+      "it_IT": "Octocuffie da studio",
+	  "ko_KR": "스튜디오 옥타폰"
     },
     "main": "Ink Recovery Up",
     "brand": "Cuttlegear",
@@ -1728,7 +1785,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "센뉴 헤드폰"
     },
     "main": "Ink Saver (Main)",
     "brand": "Forge",
@@ -1750,7 +1808,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "골프 썬캡"
     },
     "main": "Run Speed Up",
     "brand": "Zink",
@@ -1772,7 +1831,8 @@ $scope.hats = [
       "de_DE": "Rilax-Schirmband",
       "nl_NL": "Firefin-zonneklep",
       "ru_RU": "Козырек «Фугасик»",
-      "it_IT": "Visiera cool"
+      "it_IT": "Visiera cool",
+	  "ko_KR": "복어구이 썬캡"
     },
     "main": "Special Charge Up",
     "brand": "Firefin",
@@ -1794,7 +1854,8 @@ $scope.hats = [
       "de_DE": "Sonnen-Schirmband",
       "nl_NL": "Zonneklep",
       "ru_RU": "Козырек",
-      "it_IT": "Visiera parasole"
+      "it_IT": "Visiera parasole",
+	  "ko_KR": "썬캡"
     },
     "main": "Sub Power Up",
     "brand": "Tentatek",
@@ -1816,7 +1877,8 @@ $scope.hats = [
       "de_DE": "Kalamati-Schirmband",
       "nl_NL": "Takoroka-zonneklep",
       "ru_RU": "Козырек от «Рыбок»",
-      "it_IT": "Visiera Sepia"
+      "it_IT": "Visiera Sepia",
+	  "ko_KR": "야코 썬캡"
     },
     "main": "Quick Super Jump",
     "brand": "Takoroka",
@@ -1838,7 +1900,8 @@ $scope.hats = [
       "de_DE": "Gesichtsschutz",
       "nl_NL": "Gezichtsvizier",
       "ru_RU": "Визор-козырек",
-      "it_IT": "Visiera fumé"
+      "it_IT": "Visiera fumé",
+	  "ko_KR": "바이저 모자"
     },
     "main": "Bomb Defense Up DX",
     "brand": "Toni Kensa",
@@ -1860,7 +1923,8 @@ $scope.hats = [
       "de_DE": "Fahrradhelm",
       "nl_NL": "Fietshelm",
       "ru_RU": "Велошлем",
-      "it_IT": "Casco da bici"
+      "it_IT": "Casco da bici",
+	  "ko_KR": "사이클 헬멧"
     },
     "main": "Ink Recovery Up",
     "brand": "Skalop",
@@ -1882,7 +1946,8 @@ $scope.hats = [
       "de_DE": "Nachtsichtgerät",
       "nl_NL": "Nachtkijker",
       "ru_RU": "Тактический шлем",
-      "it_IT": "Casco a infrarossi"
+      "it_IT": "Casco a infrarossi",
+	  "ko_KR": "위장 고글"
     },
     "main": "Swim Speed Up",
     "brand": "Forge",
@@ -1904,7 +1969,8 @@ $scope.hats = [
       "de_DE": "Skateboardhelm",
       "nl_NL": "Skateboardhelm",
       "ru_RU": "Шлем скейтера",
-      "it_IT": "Casco da skate"
+      "it_IT": "Casco da skate",
+	  "ko_KR": "스케이트 헬멧"
     },
     "main": "Special Saver",
     "brand": "Skalop",
@@ -1926,7 +1992,8 @@ $scope.hats = [
       "de_DE": "Schirmhelm",
       "nl_NL": "Skateboardhelm met klep",
       "ru_RU": "Скейт-шлем с козырьком",
-      "it_IT": "Casco con visiera"
+      "it_IT": "Casco con visiera",
+	  "ko_KR": "바이저 헬멧"
     },
     "main": "Last-Ditch Effort",
     "brand": "Skalop",
@@ -1948,7 +2015,8 @@ $scope.hats = [
       "de_DE": "Mountainbike-Helm",
       "nl_NL": "Mountainbikehelm",
       "ru_RU": "Шлем для экстрима",
-      "it_IT": "Casco da motocross"
+      "it_IT": "Casco da motocross",
+	  "ko_KR": "로고붙인 MTB 헬멧"
     },
     "main": "Tenacity",
     "brand": "Zekko",
@@ -1970,7 +2038,8 @@ $scope.hats = [
       "de_DE": "Hockey-Helm",
       "nl_NL": "IJshockeyhelm",
       "ru_RU": "Шлем ХК «Барракуда»",
-      "it_IT": "Casco da hockey"
+      "it_IT": "Casco da hockey",
+	  "ko_KR": "이카로스 HK 헬멧"
     },
     "main": "Main Power Up",
     "brand": "Forge",
@@ -1992,7 +2061,8 @@ $scope.hats = [
       "de_DE": "Matter MTB-Helm",
       "nl_NL": "Matte mountainbikehelm",
       "ru_RU": "Черный шлем для экстрима",
-      "it_IT": "Casco mountain bike"
+      "it_IT": "Casco mountain bike",
+	  "ko_KR": "무광 MTB 헬멧"
     },
     "main": "Sub Power Up",
     "brand": "Zekko",
@@ -2014,7 +2084,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "옥타 풋볼 헬멧"
     },
     "main": "Bomb Defense Up DX",
     "brand": "Forge",
@@ -2036,7 +2107,8 @@ $scope.hats = [
       "de_DE": "Algen-Tarnhelm",
       "nl_NL": "Algenhelm",
       "ru_RU": "Маскшлем «Дно»",
-      "it_IT": "Elmetto di alghe"
+      "it_IT": "Elmetto di alghe",
+	  "ko_KR": "촉촉한 길리 헬멧"
     },
     "main": "Run Speed Up",
     "brand": "Forge",
@@ -2058,7 +2130,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "데카 풋볼 헬멧"
     },
     "main": "Sub Power Up",
     "brand": "Forge",
@@ -2080,7 +2153,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "방독면"
     },
     "main": "Tenacity",
     "brand": "Forge",
@@ -2102,7 +2176,8 @@ $scope.hats = [
       "de_DE": "Paintballhelm",
       "nl_NL": "Paintballmasker",
       "ru_RU": "Маска для пейнтбола",
-      "it_IT": "Maschera paintball"
+      "it_IT": "Maschera paintball",
+	  "ko_KR": "안면 고글"
     },
     "main": "Comeback",
     "brand": "Forge",
@@ -2124,7 +2199,8 @@ $scope.hats = [
       "de_DE": "Klassisches Bandana",
       "nl_NL": "Klassieke bandana",
       "ru_RU": "Бандана с узором",
-      "it_IT": "Bandana paisley"
+      "it_IT": "Bandana paisley",
+	  "ko_KR": "에이즐리 반다나"
     },
     "main": "Ink Saver (Sub)",
     "brand": "Krak-On",
@@ -2146,7 +2222,8 @@ $scope.hats = [
       "de_DE": "Totenkopf-Bandana",
       "nl_NL": "Doodshoofdbandana",
       "ru_RU": "Бандана «Череп»",
-      "it_IT": "Bandana teschio"
+      "it_IT": "Bandana teschio",
+	  "ko_KR": "해골 반다나"
     },
     "main": "Special Saver",
     "brand": "Forge",
@@ -2168,7 +2245,8 @@ $scope.hats = [
       "de_DE": "Malermaske",
       "nl_NL": "Verfmasker",
       "ru_RU": "Респиратор маляра",
-      "it_IT": "Maschera da verniciatura"
+      "it_IT": "Maschera da verniciatura",
+	  "ko_KR": "페인터 마스크"
     },
     "main": "Main Power Up",
     "brand": "SquidForce",
@@ -2190,7 +2268,8 @@ $scope.hats = [
       "de_DE": "Annaki-Mundschutz",
       "nl_NL": "Annaki-mondkapje",
       "ru_RU": "Маска «Неформал»",
-      "it_IT": "Mascherina Annak"
+      "it_IT": "Mascherina Annak",
+	  "ko_KR": "아나아키 마스크"
     },
     "main": "Opening Gambit",
     "brand": "Annaki",
@@ -2212,7 +2291,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "옥토킹 마스크"
     },
     "main": "Tenacity",
     "brand": "Enperry",
@@ -2234,7 +2314,8 @@ $scope.hats = [
       "de_DE": "Kalmar-Mundschutz",
       "nl_NL": "SquidForce-mondkapje",
       "ru_RU": "Маска «Кальмар»",
-      "it_IT": "Mascherina CalamaX"
+      "it_IT": "Mascherina CalamaX",
+	  "ko_KR": "오징어 마스크"
     },
     "main": "Ink Saver (Main)",
     "brand": "SquidForce",
@@ -2256,7 +2337,8 @@ $scope.hats = [
       "de_DE": "Rilax-Mundschutz",
       "nl_NL": "Firefin-mondkapje",
       "ru_RU": "Маска от «Фритюр»",
-      "it_IT": "Mascherina Torryd"
+      "it_IT": "Mascherina Torryd",
+	  "ko_KR": "홋코리 마스크"
     },
     "main": "Run Speed Up",
     "brand": "Firefin",
@@ -2278,7 +2360,8 @@ $scope.hats = [
       "de_DE": "King-Mundschutz",
       "nl_NL": "Calamars-mondkapje",
       "ru_RU": "Маска «VIP»",
-      "it_IT": "Mascherina Calamars"
+      "it_IT": "Mascherina Calamars",
+	  "ko_KR": "킹 오브 마스크"
     },
     "main": "Ink Saver (Sub)",
     "brand": "Enperry",
@@ -2300,7 +2383,8 @@ $scope.hats = [
       "de_DE": "Motocross-Nasenschutz",
       "nl_NL": "Motorcrossmasker",
       "ru_RU": "Мото-маска",
-      "it_IT": "Maschera da motocross"
+      "it_IT": "Maschera da motocross",
+	  "ko_KR": "모토크로스 노즈 가드"
     },
     "main": "Special Charge Up",
     "brand": "Forge",
@@ -2322,7 +2406,8 @@ $scope.hats = [
       "de_DE": "Focus-Mundschutz",
       "nl_NL": "Forge-mondkapje",
       "ru_RU": "Вело-маска",
-      "it_IT": "Mascherina Fortia"
+      "it_IT": "Mascherina Fortia",
+	  "ko_KR": "포리마 마스크"
     },
     "main": "Main Power Up",
     "brand": "Forge",
@@ -2344,7 +2429,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "포리마 마스크 카모"
     },
     "main": "Swim Speed Up",
     "brand": "Forge",
@@ -2366,7 +2452,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "코시엔 반다나"
     },
     "main": "Swim Speed Up",
     "brand": "SquidForce",
@@ -2388,7 +2475,8 @@ $scope.hats = [
       "de_DE": "Basketballstirnband",
       "nl_NL": "Basketbalhoofdband",
       "ru_RU": "Повязка (баскетбол)",
-      "it_IT": "Fascia da basket"
+      "it_IT": "Fascia da basket",
+	  "ko_KR": "농구 밴드"
     },
     "main": "Opening Gambit",
     "brand": "Zink",
@@ -2410,7 +2498,8 @@ $scope.hats = [
       "de_DE": "Squashstirnband",
       "nl_NL": "Squashhoofdband",
       "ru_RU": "Повязка (сквош)",
-      "it_IT": "Fascia da squash"
+      "it_IT": "Fascia da squash",
+	  "ko_KR": "스쿼시 밴드"
     },
     "main": "Special Saver",
     "brand": "Zink",
@@ -2432,7 +2521,8 @@ $scope.hats = [
       "de_DE": "Tennisstirnband",
       "nl_NL": "Tennishoofdband",
       "ru_RU": "Повязка (теннис)",
-      "it_IT": "Fascia da tennis"
+      "it_IT": "Fascia da tennis",
+	  "ko_KR": "테니스 밴드"
     },
     "main": "Comeback",
     "brand": "Tentatek",
@@ -2454,7 +2544,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "조깅 밴드"
     },
     "main": "Ink Saver (Sub)",
     "brand": "Zekko",
@@ -2476,7 +2567,8 @@ $scope.hats = [
       "de_DE": "Fußballstirnband",
       "nl_NL": "Voetbalhoofdband",
       "ru_RU": "Повязка (футбол)",
-      "it_IT": "Fascia da calcio"
+      "it_IT": "Fascia da calcio",
+	  "ko_KR": "축구 밴드"
     },
     "main": "Tenacity",
     "brand": "Tentatek",
@@ -2498,7 +2590,8 @@ $scope.hats = [
       "de_DE": "Rilax-Bandana",
       "nl_NL": "Firefin-bandana",
       "ru_RU": "«Фугасик» с фестонами",
-      "it_IT": "Bandana cool"
+      "it_IT": "Bandana cool",
+	  "ko_KR": "복어구이 비스킷 반다나"
     },
     "main": "Special Power Up",
     "brand": "Firefin",
@@ -2520,7 +2613,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "검은 복어구이 비스킷 반다나"
     },
     "main": "Bomb Defense Up DX",
     "brand": "Firefin",
@@ -2542,7 +2636,8 @@ $scope.hats = [
       "de_DE": "Prunk-Ohrschmuck",
       "nl_NL": "Enperry-sieraad",
       "ru_RU": "Золотая серьга",
-      "it_IT": "Orecchino Imperial"
+      "it_IT": "Orecchino Imperial",
+	  "ko_KR": "카이저 커프"
     },
     "main": "Ink Saver (Main)",
     "brand": "Enperry",
@@ -2564,7 +2659,8 @@ $scope.hats = [
       "de_DE": "Grubenhelm",
       "nl_NL": "Mijnwerkershelm",
       "ru_RU": "Каска с фонарем",
-      "it_IT": "Casco da minatore"
+      "it_IT": "Casco da minatore",
+	  "ko_KR": "헤드라이트 헬멧"
     },
     "main": null,
     "brand": "Grizzco",
@@ -2586,7 +2682,8 @@ $scope.hats = [
       "de_DE": "Feinstaubmaske 2.5",
       "nl_NL": "Stofmasker",
       "ru_RU": "Маска от пыли 2.5",
-      "it_IT": "Maschera antipolvere"
+      "it_IT": "Maschera antipolvere",
+	  "ko_KR": "먼지 차단기 2.5"
     },
     "main": null,
     "brand": "Grizzco",
@@ -2608,7 +2705,8 @@ $scope.hats = [
       "de_DE": "Schweißermaske",
       "nl_NL": "Laskap",
       "ru_RU": "Маска сварщика",
-      "it_IT": "Maschera da saldatore"
+      "it_IT": "Maschera da saldatore",
+	  "ko_KR": "용접면"
     },
     "main": null,
     "brand": "Grizzco",
@@ -2630,7 +2728,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "양봉 모자"
     },
     "main": null,
     "brand": "Grizzco",
@@ -2652,7 +2751,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "옥타조네스 고글"
     },
     "main": null,
     "brand": "Grizzco",
@@ -2674,7 +2774,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "전설의 모자"
     },
     "main": null,
     "brand": "Grizzco",
@@ -2696,7 +2797,8 @@ $scope.hats = [
       "de_DE": "Meeresforscher-Helm",
       "nl_NL": "Oceanologenhelm",
       "ru_RU": "Шлем океанолога",
-      "it_IT": "Casco da oceanografo"
+      "it_IT": "Casco da oceanografo",
+	  "ko_KR": "바다 안전모"
     },
     "main": null,
     "brand": "Grizzco",
@@ -2718,7 +2820,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "인부 두건"
     },
     "main": null,
     "brand": "Grizzco",
@@ -2740,7 +2843,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "세일러 모자"
     },
     "main": null,
     "brand": "Grizzco",
@@ -2763,7 +2867,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "메카 헤드 - HTR"
     },
     "main": "Main Power Up",
     "brand": "SquidForce",
@@ -2786,7 +2891,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "콩콩 강시모자"
     },
     "main": "Run Speed Up",
     "brand": "SquidForce",
@@ -2808,7 +2914,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "악마의 뿔"
     },
     "main": "Ink Saver (Sub)",
     "brand": "SquidForce",
@@ -2830,7 +2937,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "하키 마스크"
     },
     "main": "Ink Recovery Up",
     "brand": "SquidForce",
@@ -2852,7 +2960,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "아귀 마스크"
     },
     "main": "Ink Saver (Main)",
     "brand": "SquidForce",
@@ -2874,7 +2983,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "파티 콘"
     },
     "main": "Main Power Up",
     "brand": "SquidForce",
@@ -2896,7 +3006,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "새해 안경 DX"
     },
     "main": "Special Charge Up",
     "brand": "SquidForce",
@@ -2918,7 +3029,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "꽈배기 헤드밴드"
     },
     "main": "Special Power Up",
     "brand": "SquidForce",
@@ -2940,7 +3052,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "해피 장어 모자"
     },
     "main": "Quick Respawn",
     "brand": "SquidForce",
@@ -2962,7 +3075,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "보라색 썬캡"
     },
     "main": "Ink Resistance Up",
     "brand": "Tentatek",
@@ -2984,7 +3098,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "초록색 썬캡"
     },
     "main": "Special Saver",
     "brand": "Tentatek",
@@ -3006,7 +3121,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "주황색 썬캡"
     },
     "main": "Last-Ditch Effort",
     "brand": "Tentatek",
@@ -3028,7 +3144,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "핑크색 썬캡"
     },
     "main": "Tenacity",
     "brand": "Tentatek",
@@ -3050,7 +3167,8 @@ $scope.hats = [
       "de_DE": "Tintenfisch-Spange",
       "nl_NL": "Inktvishaarspeld",
       "ru_RU": "Заколка «Кальмарчик»",
-      "it_IT": "Fermaglio calamaro"
+      "it_IT": "Fermaglio calamaro",
+	  "ko_KR": "오징어 머리핀"
     },
     "main": "Swim Speed Up",
     "brand": "amiibo",
@@ -3072,7 +3190,8 @@ $scope.hats = [
       "de_DE": "Samurai-Helm",
       "nl_NL": "Samoeraihelm",
       "ru_RU": "Шлем самурая",
-      "it_IT": "Elmo da samurai"
+      "it_IT": "Elmo da samurai",
+	  "ko_KR": "사무라이 헬멧"
     },
     "main": "Quick Super Jump",
     "brand": "amiibo",
@@ -3094,7 +3213,8 @@ $scope.hats = [
       "de_DE": "Exo-Helm",
       "nl_NL": "Hightechhelm",
       "ru_RU": "Силовой шлем",
-      "it_IT": "Maschera hi-tech"
+      "it_IT": "Maschera hi-tech",
+	  "ko_KR": "파워 마스크"
     },
     "main": "Bomb Defense Up DX",
     "brand": "amiibo",
@@ -3116,7 +3236,8 @@ $scope.hats = [
       "de_DE": "Tintenfisch-Clip",
       "nl_NL": "Inktvisoorbellen",
       "ru_RU": "Клипсы Splatoon 2",
-      "it_IT": "Orecchini calamaro"
+      "it_IT": "Orecchini calamaro",
+	  "ko_KR": "오징어 클립"
     },
     "main": "Opening Gambit",
     "brand": "amiibo",
@@ -3138,7 +3259,8 @@ $scope.hats = [
       "de_DE": "Ninja-Maske",
       "nl_NL": "Ninjamasker",
       "ru_RU": "Маска ниндзялинга",
-      "it_IT": "Maschera ninja"
+      "it_IT": "Maschera ninja",
+	  "ko_KR": "오징닌자 마스크"
     },
     "main": "Quick Respawn",
     "brand": "amiibo",
@@ -3160,7 +3282,8 @@ $scope.hats = [
       "de_DE": "Exo-Prototypenhelm",
       "nl_NL": "Hightechhelm (prototype)",
       "ru_RU": "Силовой шлем М-1",
-      "it_IT": "Prototipo di maschera hi-tech"
+      "it_IT": "Prototipo di maschera hi-tech",
+	  "ko_KR": "파워 마스크 오리진"
     },
     "main": "Ink Resistance Up",
     "brand": "amiibo",
@@ -3182,7 +3305,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "히메 왕관"
     },
     "main": "Bomb Defense Up DX",
     "brand": "amiibo",
@@ -3204,7 +3328,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "이이다 헤드폰"
     },
     "main": "Special Saver",
     "brand": "amiibo",
@@ -3226,7 +3351,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "인챈트 햇"
     },
     "main": "Ink Saver (Main)",
     "brand": "amiibo",
@@ -3248,7 +3374,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "타코티컬한 헬멧"
     },
     "main": "Special Charge Up",
     "brand": "amiibo",
@@ -3270,7 +3397,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "히레오씨"
     },
     "main": "Comeback",
     "brand": "amiibo",
@@ -3292,7 +3420,8 @@ $scope.hats = [
       "de_DE": "Helden-Headset Replik",
       "nl_NL": "Heldenheadset (replica)",
       "ru_RU": "Рация-004 (клон)",
-      "it_IT": "Cuffie élite replica"
+      "it_IT": "Cuffie élite replica",
+	  "ko_KR": "히어로 헤드셋 레플리카"
     },
     "main": "Run Speed Up",
     "brand": "Cuttlegear",
@@ -3314,7 +3443,8 @@ $scope.hats = [
       "de_DE": "Rüstungshelm Replik",
       "nl_NL": "Pantserhelm (replica)",
       "ru_RU": "Бронешлем-004 (клон)",
-      "it_IT": "Casco d'armatura replica"
+      "it_IT": "Casco d'armatura replica",
+	  "ko_KR": "아머 헬멧 레플리카"
     },
     "main": "Tenacity",
     "brand": "Cuttlegear",
@@ -3336,7 +3466,8 @@ $scope.hats = [
       "de_DE": "Helden-Kopfhörer Replik",
       "nl_NL": "Heldenkoptelefoon (replica)",
       "ru_RU": "Наушники-004 (клон)",
-      "it_IT": "Headset élite replica"
+      "it_IT": "Headset élite replica",
+	  "ko_KR": "히어로 리시버 레플리카"
     },
     "main": "Special Saver",
     "brand": "Cuttlegear",
@@ -3358,7 +3489,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "타코조네스 선글라스"
     },
     "main": "Last-Ditch Effort",
     "brand": "Cuttlegear",
@@ -3380,7 +3512,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "넬멧 레플리카"
     },
     "main": "Special Power Up",
     "brand": "Cuttlegear",
@@ -3402,7 +3535,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "할아버지 모자"
     },
     "main": "Comeback",
     "brand": "Cuttlegear",
@@ -3424,7 +3558,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "메트로 모자"
     },
     "main": "Sub Power Up",
     "brand": "Cuttlegear",
@@ -3446,7 +3581,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "황금 이쑤시개"
     },
     "main": "Special Charge Up",
     "brand": "Cuttlegear",
