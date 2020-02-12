@@ -14,7 +14,8 @@ $scope.hats = [
       "de_DE": "Weißes Stirnband",
       "nl_NL": "Witte hoofdband",
       "ru_RU": "Белая повязка",
-      "it_IT": "Fascia bianca"
+      "it_IT": "Fascia bianca",
+	  "ko_KR": "헤드 밴드 화이트"
     },
     "main": "Ink Recovery Up",
     "brand": "SquidForce",
@@ -36,7 +37,8 @@ $scope.hats = [
       "de_DE": "Urchins-Kappe",
       "nl_NL": "Honkbalpet",
       "ru_RU": "Бейсболка БК «Ежи»",
-      "it_IT": "Berretto AS Riccidimare"
+      "it_IT": "Berretto AS Riccidimare",
+	  "ko_KR": "우니즈 BB캡"
     },
     "main": "Sub Power Up",
     "brand": "Skalop",
@@ -58,7 +60,8 @@ $scope.hats = [
       "de_DE": "Camper-Kappe",
       "nl_NL": "Lichtgewicht pet",
       "ru_RU": "Легкая кепка",
-      "it_IT": "Berretto leggero"
+      "it_IT": "Berretto leggero",
+	  "ko_KR": "캠프 캡"
     },
     "main": "Swim Speed Up",
     "brand": "Inkline",
@@ -80,7 +83,8 @@ $scope.hats = [
       "de_DE": "Kalamati-Netzkappe",
       "nl_NL": "Takoroka-pet",
       "ru_RU": "Тракер от «Рыбок»",
-      "it_IT": "Berretto Sepia"
+      "it_IT": "Berretto Sepia",
+	  "ko_KR": "야코 메시"
     },
     "main": "Bomb Defense Up DX",
     "brand": "Takoroka",
@@ -102,7 +106,8 @@ $scope.hats = [
       "de_DE": "Style-Kappe",
       "nl_NL": "Streetstyle-pet",
       "ru_RU": "Модная кепка",
-      "it_IT": "Berretto alla moda"
+      "it_IT": "Berretto alla moda",
+	  "ko_KR": "비버리지 캡"
     },
     "main": "Ink Saver (Sub)",
     "brand": "Skalop",
@@ -124,7 +129,8 @@ $scope.hats = [
       "de_DE": "Null",
       "nl_NL": "Null",
       "ru_RU": "Null",
-      "it_IT": "Null"
+      "it_IT": "Null",
+	  "ko_KR": "치도리 캡"
     },
     "main": "Opening Gambit",
     "brand": "Skalop",
@@ -146,7 +152,8 @@ $scope.hats = [
       "de_DE": "Inkvader-Kappe",
       "nl_NL": "Pixelpet",
       "ru_RU": "Кепка захватчика",
-      "it_IT": "Berretto Inkvaders"
+      "it_IT": "Berretto Inkvaders",
+	  "ko_KR": "오징어베이더 캡"
     },
     "main": "Special Charge Up",
     "brand": "Skalop",
@@ -168,7 +175,8 @@ $scope.hats = [
       "de_DE": "Tarn-Netzkappe",
       "nl_NL": "Camouflagepet",
       "ru_RU": "Камуфляжный тракер",
-      "it_IT": "Berretto mimetico"
+      "it_IT": "Berretto mimetico",
+	  "ko_KR": "덕 메시"
     },
     "main": "Swim Speed Up",
     "brand": "Firefin",
@@ -190,7 +198,8 @@ $scope.hats = [
       "de_DE": "5-Panel-Kappe",
       "nl_NL": "5-panelenpet",
       "ru_RU": "Модульная кепка",
-      "it_IT": "Berretto multifase"
+      "it_IT": "Berretto multifase",
+	  "ko_KR": "5패널 캡"
     },
     "main": "Comeback",
     "brand": "Zekko",
@@ -212,7 +221,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "에족코 메시"
     },
     "main": "Quick Super Jump",
     "brand": "Zekko",
@@ -234,7 +244,8 @@ $scope.hats = [
       "de_DE": "Umgedrehte Kappe",
       "nl_NL": "Omgekeerde pet",
       "ru_RU": "Кепка задом наперед",
-      "it_IT": "Berretto girato"
+      "it_IT": "Berretto girato",
+	  "ko_KR": "백워드 모자"
     },
     "main": "Quick Respawn",
     "brand": "Zekko",
@@ -256,7 +267,8 @@ $scope.hats = [
       "de_DE": "Zweistreifen-Netzkappe",
       "nl_NL": "Pet met dubbele streep",
       "ru_RU": "Тракер с полосками",
-      "it_IT": "Berretto a righe"
+      "it_IT": "Berretto a righe",
+	  "ko_KR": "이선 메시"
     },
     "main": "Special Saver",
     "brand": "Krak-On",
@@ -278,7 +290,8 @@ $scope.hats = [
       "de_DE": "Jet-Kappe",
       "nl_NL": "Jet-pet",
       "ru_RU": "Улетная кепка",
-      "it_IT": "Berretto jet"
+      "it_IT": "Berretto jet",
+	  "ko_KR": "제트 캡"
     },
     "main": "Special Saver",
     "brand": "Firefin",
@@ -300,7 +313,8 @@ $scope.hats = [
       "de_DE": "Radlermütze",
       "nl_NL": "Wielerpetje",
       "ru_RU": "Велокепка",
-      "it_IT": "Berretto da ciclista"
+      "it_IT": "Berretto da ciclista",
+	  "ko_KR": "사이클 캡"
     },
     "main": "Sub Power Up",
     "brand": "Zink",
@@ -322,7 +336,8 @@ $scope.hats = [
       "de_DE": "Champion-Radlermütze",
       "nl_NL": "Bergkoningpetje",
       "ru_RU": "Элитная велокепка",
-      "it_IT": "Cappello re della bici"
+      "it_IT": "Cappello re della bici",
+	  "ko_KR": "체리킹 모자"
     },
     "main": "Bomb Defense Up DX",
     "brand": "Tentatek",
@@ -344,7 +359,8 @@ $scope.hats = [
       "de_DE": "Null",
       "it_IT": "Null",
       "nl_NL": "Null",
-      "ru_RU": "Null"
+      "ru_RU": "Null",
+	  "ko_KR": "롱빌드 캡"
     },
     "main": "Ink Recovery Up",
     "brand": "Krak-On",
@@ -366,7 +382,8 @@ $scope.hats = [
       "de_DE": "King-Flexi-Netzkappe",
       "nl_NL": "Calamars-gaaspet",
       "ru_RU": "Тракер «VIP»",
-      "it_IT": "Cappellino Calamars"
+      "it_IT": "Cappellino Calamars",
+	  "ko_KR": "킹 플립 메시"
     },
     "main": "Run Speed Up",
     "brand": "Enperry",
@@ -388,7 +405,8 @@ $scope.hats = [
       "de_DE": "Hickory-Arbeitsmütze",
       "nl_NL": "Gestreepte werkpet",
       "ru_RU": "Простроченная кепка",
-      "it_IT": "Cappellino a righe"
+      "it_IT": "Cappellino a righe",
+	  "ko_KR": "히코리 워크 캡"
     },
     "main": "Special Power Up",
     "brand": "Krak-On",
@@ -410,7 +428,8 @@ $scope.hats = [
       "de_DE": "Urchins-Kappe Klassik",
       "nl_NL": "Wollen honkbalpet",
       "ru_RU": "Теплая кепка БК «Ежи»",
-      "it_IT": "Cappello Riccidimare"
+      "it_IT": "Cappello Riccidimare",
+	  "ko_KR": "양털 우니즈 클래식"
     },
     "main": "Comeback",
     "brand": "Krak-On",
@@ -432,7 +451,8 @@ $scope.hats = [
       "de_DE": "Jellyvader-Kappe",
       "nl_NL": "Arcadepetje",
       "ru_RU": "Кепка «Медузы-ретро»",
-      "it_IT": "Berretto medusiano"
+      "it_IT": "Berretto medusiano",
+	  "ko_KR": "젤리베이더 캡"
     },
     "main": "Ink Saver (Sub)",
     "brand": "Skalop",

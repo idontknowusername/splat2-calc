@@ -14,7 +14,8 @@ angular.module('splatApp').weapons = function($scope) {
 				it_IT: 'Armi a ripetizione',
 				nl_NL: 'Spetter',
 				ru_RU: 'Armi a ripetizione',
-				zh_HK: 'シューター (普通槍)'
+				zh_HK: 'シューター (普通槍)',
+				ko_KR: '슈터'
 			},
 			id: 0,
 			weapons: [
@@ -32,7 +33,8 @@ angular.module('splatApp').weapons = function($scope) {
 						de_DE: 'Disperser',
 						it_IT: 'Marker',
 						nl_NL: 'Spettertuit',
-						ru_RU: 'Плюхотрон'
+						ru_RU: 'Плюхотрон',
+						ko_KR: '볼드 마커'
 					},
 					class: 'Shooter',
 					type: 'Sploosh-o-matic',
@@ -72,7 +74,8 @@ angular.module('splatApp').weapons = function($scope) {
 						de_DE: 'Disperser Neo',
 						it_IT: 'Marker neo',
 						nl_NL: 'Spettertuit Neo',
-						ru_RU: 'Плюхотрон «Нео»'
+						ru_RU: 'Плюхотрон «Нео»',
+						ko_KR: '볼드마커 네오'
 					},
 					class: 'Shooter',
 					type: 'Sploosh-o-matic',
