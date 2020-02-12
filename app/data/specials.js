@@ -14,7 +14,8 @@ angular.module('splatApp').specials = function ($scope) {
         "it_IT": "Lanciarazzi",
         "nl_NL": "Spetterraketten",
         "ru_RU": "Каракатница",
-        "zh_HK": "マルチミサイル (導弾)"
+        "zh_HK": "マルチミサイル (導弾)",
+		"ko_KR": "멀티미사일"
       },
       image: "../common/assets/img/subspe/Wsp_SuperMissile.png",
       damage: {
@@ -37,7 +38,8 @@ angular.module('splatApp').specials = function ($scope) {
         "it_IT": "Cromosfera",
         "nl_NL": "Barstbubbel",
         "ru_RU": "Шарокат",
-        "zh_HK": "イカスフィア (倉鼠波)"
+        "zh_HK": "イカスフィア (倉鼠波)",
+		"ko_KR": "오징어 스피어"
       },
       image: "../common/assets/img/subspe/Wsp_AquaBall.png",
       damage: {
@@ -60,7 +62,8 @@ angular.module('splatApp').specials = function ($scope) {
         "it_IT": "Vernischianto",
         "nl_NL": "Superlanding",
         "ru_RU": "Мегаплюх",
-        "zh_HK": "スーパーチャクチ (爆地)"
+        "zh_HK": "スーパーチャクチ (爆地)",
+		"ko_KR": "슈퍼 착지"
       },
       image: "../common/assets/img/subspe/Wsp_SuperLanding.png",
       damage: {
@@ -83,7 +86,8 @@ angular.module('splatApp').specials = function ($scope) {
         "it_IT": "Soffiabolle",
         "nl_NL": "Bellenblazer",
         "ru_RU": "Пузырятор",
-        "zh_HK": "バブルランチャー (吹波波)"
+        "zh_HK": "バブルランチャー (吹波波)",
+		"ko_KR": "버블 런쳐"
       },
       image: "../common/assets/img/subspe/Wsp_SuperBubble.png",
       radius: {
@@ -105,7 +109,8 @@ angular.module('splatApp').specials = function ($scope) {
         "it_IT": "Armatura d'inchiostro",
         "nl_NL": "Inktharnas",
         "ru_RU": "Бронекраска",
-        "zh_HK": "インクアーマー (保護盾)"
+        "zh_HK": "インクアーマー (保護盾)",
+		"ko_KR": "잉크 아머"
       },
       image: "../common/assets/img/subspe/Wsp_SuperArmor.png",
       duration: 8
@@ -124,7 +129,8 @@ angular.module('splatApp').specials = function ($scope) {
         "it_IT": "Jet splat",
         "nl_NL": "Inktjet",
         "ru_RU": "Красколет",
-        "zh_HK": "インクアーマー (飛行背包)"
+        "zh_HK": "インクアーマー (飛行背包)",
+		"ko_KR": "제트팩"
       },
       image: "../common/assets/img/subspe/Wsp_Jetpack.png",
       duration: 8,
@@ -148,7 +154,8 @@ angular.module('splatApp').specials = function ($scope) {
         "it_IT": "Baccalaser",
         "nl_NL": "Magistraal",
         "ru_RU": "Струятор",
-        "zh_HK": "ハイパープレッサー (Laser)"
+        "zh_HK": "ハイパープレッサー (Laser)",
+		"ko_KR": "하이퍼 프레셔"
       },
       image: "../common/assets/img/subspe/Wsp_WaterCutter.png",
       duration: 7.17
@@ -167,7 +174,8 @@ angular.module('splatApp').specials = function ($scope) {
         "it_IT": "Pioggia di colore",
         "nl_NL": "Spetterbui",
         "ru_RU": "Туча краски",
-        "zh_HK": "アメフラシ (雨雲)"
+        "zh_HK": "アメフラシ (雨雲)",
+		"ko_KR": "비 뿌리개"
       },
       image: "../common/assets/img/subspe/Wsp_RainCloud.png",
       duration: 8
@@ -186,7 +194,8 @@ angular.module('splatApp').specials = function ($scope) {
         "it_IT": "Lanciappiccibombe",
         "nl_NL": "Kleefbomkanon",
         "ru_RU": "Бомбомет (присоски)",
-        "zh_HK": "ボムピッチャー (吸盤弾連射)"
+        "zh_HK": "ボムピッチャー (吸盤弾連射)",
+		"ko_KR": "빨판 봄 런쳐"
       },
       image: "../common/assets/img/subspe/Wsp_LauncherSuction.png",
       duration: 6
@@ -205,7 +214,8 @@ angular.module('splatApp').specials = function ($scope) {
         "it_IT": "Lanciabombe Robo",
         "nl_NL": "Robobomkanon",
         "ru_RU": "Бомбомет (Робобомб)",
-        "zh_HK": "ボムピッチャー (自走弾連射)"
+        "zh_HK": "ボムピッチャー (自走弾連射)",
+		"ko_KR": "로봇 봄 런쳐"
       },
       image: "../common/assets/img/subspe/Wsp_LauncherRobo.png",
       duration: 6
@@ -224,7 +234,8 @@ angular.module('splatApp').specials = function ($scope) {
         "it_IT": "Lanciabombe splash",
         "nl_NL": "Klodderbomkanon",
         "ru_RU": "Бомбомет (брызгающие)",
-        "zh_HK": "ボムピッチャー (三角弾連射)"
+        "zh_HK": "ボムピッチャー (三角弾連射)",
+		"ko_KR": "스플래시 봄 런쳐"
       },
       image: "../common/assets/img/subspe/Wsp_LauncherSplash.png",
       duration: 6
@@ -243,7 +254,8 @@ angular.module('splatApp').specials = function ($scope) {
         "it_IT": "Lanciabombe granata",
         "nl_NL": "Ballonbomkanon",
         "ru_RU": "Бомбомет (Разрывная)",
-        "zh_HK": "ボムピッチャー (水袋連射)"
+        "zh_HK": "ボムピッチャー (水袋連射)",
+		"ko_KR": "퀵봄 런쳐"
       },
       image: "../common/assets/img/subspe/Wsp_LauncherQuick.png",
       duration: 6
@@ -262,7 +274,8 @@ angular.module('splatApp').specials = function ($scope) {
         "it_IT": "Lanciabombe curling",
         "nl_NL": "Curlingbomkanon",
         "ru_RU": "Бомбомет (керлинг)",
-        "zh_HK": "ボムピッチャー (氷球連射)"
+        "zh_HK": "ボムピッチャー (氷球連射)",
+		"ko_KR": "컬림 봄 런쳐"
       },
       image: "../common/assets/img/subspe/Wsp_LauncherCurling.png",
       duration: 6
@@ -282,7 +295,8 @@ angular.module('splatApp').specials = function ($scope) {
         "it_IT": "Granbotto",
         "nl_NL": "Coole bom",
         "ru_RU": "Йо-хо-плюхер Yo-kho-plyukher",
-        "zh_HK": "好球"
+        "zh_HK": "好球",
+		"ko_KR": "나이스옥"
       },
       image: "../common/assets/img/subspe/Wsp_BooyahBomb.png",
       duration: 8.5
@@ -302,7 +316,8 @@ angular.module('splatApp').specials = function ($scope) {
         "it_IT": "Mega timbro",
         "nl_NL": "Ultrastempel",
         "ru_RU": "Припечать",
-        "zh_HK": "超级邮票"
+        "zh_HK": "超级邮票",
+		"ko_KR": "울트라 도장"
       },
       image: "../common/assets/img/subspe/Wsp_Ultra_Stamp.png",
       duration: 9.0
