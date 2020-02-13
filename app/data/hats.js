@@ -130,7 +130,7 @@ $scope.hats = [
       "nl_NL": "Null",
       "ru_RU": "Null",
       "it_IT": "Null",
-	  "ko_KR": "치도리 캡"
+	  "ko_KR": "하운드투스 캡"
     },
     "main": "Opening Gambit",
     "brand": "Skalop",
@@ -2292,7 +2292,7 @@ $scope.hats = [
       "it_IT": "Null",
       "nl_NL": "Null",
       "ru_RU": "Null",
-	  "ko_KR": "옥토킹 마스크"
+	  "ko_KR": "옥타킹 마스크"
     },
     "main": "Tenacity",
     "brand": "Enperry",
@@ -3375,7 +3375,7 @@ $scope.hats = [
       "it_IT": "Null",
       "nl_NL": "Null",
       "ru_RU": "Null",
-	  "ko_KR": "타코티컬한 헬멧"
+	  "ko_KR": "옥타티컬한 헬멧"
     },
     "main": "Special Charge Up",
     "brand": "amiibo",
@@ -3490,7 +3490,7 @@ $scope.hats = [
       "it_IT": "Null",
       "nl_NL": "Null",
       "ru_RU": "Null",
-	  "ko_KR": "타코조네스 선글라스"
+	  "ko_KR": "옥타조네스 선글라스"
     },
     "main": "Last-Ditch Effort",
     "brand": "Cuttlegear",
